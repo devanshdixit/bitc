@@ -13,7 +13,6 @@ export default function Home() {
         <title>Home | Quescup</title>
         <meta name="description" content="Securing donors ny verify donation campaign" />
         <link rel="icon" href="/favicon.ico" />
-        <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Header/>
